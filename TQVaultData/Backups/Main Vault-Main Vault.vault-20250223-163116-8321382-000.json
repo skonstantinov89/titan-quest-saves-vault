@@ -53,6 +53,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 6586,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Geras'Walkingstick.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 457,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Staff\\U_E_001.dbr",
           "prefixName": "",
@@ -170,21 +185,6 @@
           "var2": 742075168,
           "pointX": 15,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18077,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\US_E_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2052911168,
-          "pointX": 0,
-          "pointY": 5
         }
       ]
     },
