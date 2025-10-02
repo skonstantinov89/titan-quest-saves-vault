@@ -1,15 +1,15 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 32604,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ChromaticStaff.dbr",
+          "seed": 8746,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -17,14 +17,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 6586,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Geras'Walkingstick.dbr",
+          "seed": 17358,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -38,8 +38,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 8746,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
+          "seed": 32604,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ChromaticStaff.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -47,14 +47,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 16896,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "seed": 6586,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Geras'Walkingstick.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -62,7 +62,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -77,8 +77,53 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16896,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31969,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\u_l_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 457,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Staff\\U_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 0
         }
       ]
